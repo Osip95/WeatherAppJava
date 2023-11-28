@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherAppJava</string>
+    <string name="moscow">Москва</string>
+    <string name="saint_petersburg">Санкт-Петербург</string>
+    <string name="omsk">Омск</string>
+    <string name="tv_title_temperature">температура:</string>
+    <string name="tv_title_max_temp">максимальная температура:</string>
+    <string name="tv_title_min_temp">минимальная температура:</string>
+    <string name="tv_title_wind_speed">скорость ветра:</string>
+    <string name="tv_title_wind_azimut">направление ветра:</string>
+    <string name="message_text_no_network">Нет подключения к интернету. Данные актуальны на:</string>
+    <string name="message_text_no_network_and_no_db">"Нет подключения к интернету. Нет сохраненных данных."</string>
+</resources>
